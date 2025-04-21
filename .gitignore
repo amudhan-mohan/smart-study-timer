@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+gmm_model.pkl
+.env
